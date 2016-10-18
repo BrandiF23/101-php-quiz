@@ -12,17 +12,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Quickest Quiz in Town - Q:1</title>
+	<title>Quickest Quiz in Town - Q:2</title>
 
 	<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
 
-	<div class="score">
+	<!--<div class="score">
 	<?php 
 		echo "Current score " . $current_score;
 		?>
-		</div>
+		</div>-->
 
 	<div class="question-count">
 			Question 2

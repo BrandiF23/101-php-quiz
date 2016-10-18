@@ -1,16 +1,31 @@
 body {
 	background-color: #48D1CC;
+	font-family: Arial;
+	font-size: 15px;
 }
 
 .question-count {
+	display: flex;
+	justify-content: center;
+	border-bottom: solid 1px;
+	border-color: #F8F8FF;
 
 }
 
 .question-title {
+	display: flex;
+	justify-content: center;
+	padding-top: 80px;
+
 
 }
 
 .question-subtitle {
+	display: flex;
+	justify-content: center;
+}
+
+.question-prompt {
 
 }
 
@@ -19,5 +34,7 @@ body {
 }
 
 a {
+	display: flex;
+	justify-content: center;
 
 }

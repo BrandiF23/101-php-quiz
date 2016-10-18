@@ -8,15 +8,15 @@
 <body>
 
 	<div class="question-count">
-			1 Question
+			3 Questions
 	</div>
 
 	<div class="question-title">
-			Quickest Quiz in Town
+			<h1>Quickest Quiz in Town</h1>
 	</div>
 
 	<div class="question-subtitle">
-			Take the quiz to prove me wrong
+			<h4>Take the quiz to prove me wrong</h4>
 	</div>
 
 	<div class="start-button">
