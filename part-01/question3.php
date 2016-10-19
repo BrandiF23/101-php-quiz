@@ -38,10 +38,13 @@
   		<input type="radio" name="answer" value="C" checked> C <br>
   		<input type="radio" name="answer" value="D" checked> D <br>
   		<input type="hidden" name="current_question" value="<?php echo $current_question; ?>">
-  		<input type="hidden" name="current_score" value="<?php echo $current_score; ?>">
+  		<input type="hidden" name="current_score" value="<?php echo $current_score; ?>"><br>
   		<input type="submit" value="Next Question">
 	</form>
 
+		<!--<div class="next-button">
+		<a href="results.php">Results</a>
+		</div>-->
 
 </body>
 </html>

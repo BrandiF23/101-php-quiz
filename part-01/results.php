@@ -19,12 +19,13 @@
 	<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
+			<div class="question-count">
+				Results
+			</div>
 
-
-		<div><?php 
+		<div class="results"><?php 
 		echo "You're finished! Your score is " . $current_score . " out of 3.";
-		?></div>
+		?><br>told you it was the quickest quiz in town</div>
 
-		<div>told you it was the quickest quiz in town</div>
 </body>
 </html>
