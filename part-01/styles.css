@@ -44,6 +44,7 @@ body {
   	padding : 10px 20px;
 	background: #F8F8FF;
 	border-color: #F8F8FF;
+	color: #48D1CC;
 	width: 50px;
 	margin-left: 535px;
 	box-shadow: 4px 4px 5px #888888;
@@ -58,6 +59,7 @@ body {
   	padding : 10px 20px;
 	background: #F8F8FF;
 	border-color: #F8F8FF;
+	color: #48D1CC;
 	width: 100px;
 	box-shadow: 4px 4px 5px #888888;
 	margin-top: 15px;
@@ -72,6 +74,7 @@ body {
 a {
 	display: flex;
 	justify-content: center;
+	color: #48D1CC;
 
 }
 
